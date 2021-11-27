@@ -61,8 +61,37 @@ API própria para PIX.
 ** Desenho focado
 
 
+===================================
+API Academy
 
+** Introdução
+são habilitadores digitais. 
 
+Beneficios
+new revenue -> Google maps... 
+reach and retention
+faster partner
+mobile e omnichannel
+interaction analyses
+outsourced innovagion
+ser service
+
+====================================
+Criando um banco digital com Java e Orientação a Objetos
+
+Conceitos fundamentais.
+
+Domínio/Problema
+** Domínio bancário. -> Capacidade de abstração. 
+*Duas contas: Corrente e Poupança
+*Depósito, Saque e Transferencia
+
+-Git/GitHub
+-Java e OO
+
+PILARES
+* ABSTRAÇÃO => Concentrar em aspectos essenciais.
+* 
 
 
 
